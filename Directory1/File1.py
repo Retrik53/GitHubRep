@@ -1,2 +1,3 @@
-some_str = input()
-print(some_str)
+num1 = 25
+num2 = 31
+print(num1 + num2)
